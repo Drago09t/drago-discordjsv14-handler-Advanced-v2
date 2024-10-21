@@ -1,0 +1,1 @@
+.then(() = to MongoDB')).catch(err = Error:', err)); >> index.js

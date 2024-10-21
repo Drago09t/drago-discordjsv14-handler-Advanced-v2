@@ -1,0 +1,9 @@
+{
+    "success": "#00FF00",
+    "error": "#FF0000",
+    "info": "#3498DB",
+    "warning": "#F1C40F",
+    "yellow": "#FFFF00",
+    "blue": "#0000FF"
+  }
+  
