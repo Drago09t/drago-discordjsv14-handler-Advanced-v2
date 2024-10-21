@@ -93,11 +93,17 @@ Command logs include user, command, and guild information.
    Create a `.env` file in the root directory and add your configuration:
 
     ```env
-    TOKEN=YOUR_DISCORD_BOT_TOKEN
-    MONGO_URI=YOUR_MONGO_DB_CONNECTION_STRING
-    PREFIX=!
-    OWNER_ID=YOUR_DISCORD_USER_ID
-    LOG_WEBHOOK_URL=https://discord.com/api/webhooks/YOUR_WEBHOOK_URL
+DISCORD_TOKEN=
+GUILD_LOG_CHANNEL=
+COMMAND_LOG_CHANNEL=
+ERROR_LOG_CHANNEL=
+VOTE_LOG_CHANNEL=
+TOPGG_WEBHOOK_AUTH=
+PORT=
+CLIENT_ID=
+MAINTENANCE_MODE=
+OWNER_ID=
+PREMIUM_LOG_CHANNEL=
     ```
 
 4. **Update `config.json`**:
