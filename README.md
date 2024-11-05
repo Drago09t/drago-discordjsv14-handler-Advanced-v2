@@ -93,17 +93,17 @@ Command logs include user, command, and guild information.
    Create a `.env` file in the root directory and add your configuration:
 
     ```env
-DISCORD_TOKEN=
-GUILD_LOG_CHANNEL=
-COMMAND_LOG_CHANNEL=
-ERROR_LOG_CHANNEL=
-VOTE_LOG_CHANNEL=
-TOPGG_WEBHOOK_AUTH=
-PORT=
-CLIENT_ID=
-MAINTENANCE_MODE=
-OWNER_ID=
-PREMIUM_LOG_CHANNEL=
+   DISCORD_TOKEN=
+   GUILD_LOG_CHANNEL=
+   COMMAND_LOG_CHANNEL=
+   ERROR_LOG_CHANNEL=
+   VOTE_LOG_CHANNEL=
+   TOPGG_WEBHOOK_AUTH=
+   PORT=
+   CLIENT_ID=
+   MAINTENANCE_MODE=
+   OWNER_ID=
+   PREMIUM_LOG_CHANNEL=
     ```
 
 4. **Update `config.json`**:
