@@ -78,7 +78,7 @@ Command logs include user, command, and guild information.
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/yourusername/advanced-discord-bot.git
+    git clone https://github.com/Drago09t/drago-discordjsv14-handler-Advanced-v2.git
     cd advanced-discord-bot
     ```
 
@@ -232,8 +232,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For help and support, you can reach out through the following:
 
-- **Discord Server**: [Your Discord Server Invite Link](https://discord.gg/yourinvite)
-- **Issues**: Report bugs or request features in the [GitHub Issues](https://github.com/yourusername/advanced-discord-bot/issues) section.
+- **Discord Server**: [Invite Link](https://discord.gg/RCNWYTaatv)
+- **Issues**: Report bugs or request features in the [GitHub Issues](https://github.com/Drago09t/drago-discordjsv14-handler-Advanced-v2/issues) section.
 
 ## FIles Stucture
 ```advanced-discord-bot/
